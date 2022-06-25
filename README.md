@@ -7,3 +7,10 @@
    Thanks to @haikieu for his idea about making a Progress bar. I didn't had to do it from Scratch
    
    Also This is going to be continually updated. When its finished it will be changed to a Tester Finished version
+
+## Current Testing Method
+   Clone the repository in your ft_print folder and 
+    ´´´c 
+         cd my_tester
+         bash test.sh
+    
